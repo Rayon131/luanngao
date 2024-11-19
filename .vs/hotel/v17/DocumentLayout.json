@@ -156,7 +156,7 @@
               "RelativeDocumentMoniker": "AppView\\Views\\Phongs\\Index.cshtml",
               "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\Phongs\\Index.cshtml",
               "RelativeToolTip": "AppView\\Views\\Phongs\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgBAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-18T04:24:41.412Z",
               "IsPinned": true,
@@ -172,8 +172,7 @@
               "RelativeToolTip": "AppView\\Controllers\\PhongsController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T04:13:56.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T04:13:56.686Z"
             },
             {
               "$type": "Document",
@@ -185,8 +184,7 @@
               "RelativeToolTip": "AppView\\Controllers\\PhonggController.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAUwD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T08:36:34.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T08:36:34.688Z"
             },
             {
               "$type": "Document",
@@ -198,8 +196,7 @@
               "RelativeToolTip": "AppView\\Controllers\\LoaiPhongController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T04:37:20.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T04:37:20.134Z"
             },
             {
               "$type": "Document",
@@ -211,8 +208,7 @@
               "RelativeToolTip": "AppView\\Controllers\\GiasController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T04:08:30.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T04:08:30.948Z"
             },
             {
               "$type": "Document",
@@ -224,8 +220,7 @@
               "RelativeToolTip": "AppView\\ViewModes\\RoomVN.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T07:24:35.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T07:24:35.997Z"
             },
             {
               "$type": "Document",
@@ -237,8 +232,7 @@
               "RelativeToolTip": "AppData\\KhachHang.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwBQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T06:45:44.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T06:45:44.046Z"
             },
             {
               "$type": "Document",
@@ -250,8 +244,7 @@
               "RelativeToolTip": "AppData\\Phong.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T04:19:16.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T04:19:16.005Z"
             },
             {
               "$type": "Document",
@@ -263,8 +256,7 @@
               "RelativeToolTip": "AppData\\PhongChiTiet.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T04:41:59.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T04:41:59.069Z"
             },
             {
               "$type": "Document",
@@ -276,8 +268,7 @@
               "RelativeToolTip": "AppData\\LoaiPhong.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T06:45:40.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T06:45:40.197Z"
             },
             {
               "$type": "Document",
@@ -289,8 +280,7 @@
               "RelativeToolTip": "AppData\\NhanVien.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwBIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T05:39:35.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T05:39:35.815Z"
             },
             {
               "$type": "Document",
@@ -302,8 +292,7 @@
               "RelativeToolTip": "AppView\\ViewModels.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T07:23:20.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T07:23:20.187Z"
             },
             {
               "$type": "Document",
@@ -315,8 +304,7 @@
               "RelativeToolTip": "AppView\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T07:19:52.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T07:19:52.888Z"
             },
             {
               "$type": "Document",
@@ -328,8 +316,7 @@
               "RelativeToolTip": "AppView\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T07:14:33.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T07:14:33.192Z"
             },
             {
               "$type": "Document",
@@ -341,8 +328,7 @@
               "RelativeToolTip": "AppView\\Views\\Shared\\_Layout1.cshtml",
               "ViewState": "AgIAANQAAAAAAAAAAAAAAAkBAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T07:04:39.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T07:04:39.096Z"
             },
             {
               "$type": "Document",
@@ -366,8 +352,7 @@
               "RelativeToolTip": "AppView\\wwwroot\\index.html",
               "ViewState": "AgIAAJICAAAAAAAAAAAAAJ0CAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-19T07:17:27.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T07:17:27.704Z"
             },
             {
               "$type": "Document",
@@ -379,8 +364,7 @@
               "RelativeToolTip": "AppAPI\\Controllers\\LoaiPhongsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T04:36:57.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T04:36:57.491Z"
             },
             {
               "$type": "Document",
@@ -392,8 +376,7 @@
               "RelativeToolTip": "AppAPI\\Controllers\\DichVusController.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAkwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T02:55:29.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T02:55:29.565Z"
             },
             {
               "$type": "Document",
