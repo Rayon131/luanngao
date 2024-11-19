@@ -3,24 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\controllers\\loaiphongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\loaiphongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\views\\phongs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\views\\phongs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\views\\loaiphong\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\views\\loaiphong\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\views\\loaiphong\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\views\\loaiphong\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\controllers\\phongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\phongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\controllers\\phonggcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\phonggcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\controllers\\loaiphongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\loaiphongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\controllers\\giascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\giascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\viewmodes\\roomvn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\viewmodes\\roomvn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appdata\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appdata\\phongchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\phongchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appdata\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appdata\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appdata\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2408E5E9-2EDE-4852-A720-F02B8EA7829B}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appapi\\controllers\\dichvuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2408E5E9-2EDE-4852-A720-F02B8EA7829B}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\dichvuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2408E5E9-2EDE-4852-A720-F02B8EA7829B}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appapi\\controllers\\loaiphongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2408E5E9-2EDE-4852-A720-F02B8EA7829B}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\loaiphongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\views\\loaiphong\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\views\\loaiphong\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2408E5E9-2EDE-4852-A720-F02B8EA7829B}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -41,14 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\views\\phongg\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\views\\phongg\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\controllers\\phongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\phongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2408E5E9-2EDE-4852-A720-F02B8EA7829B}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appapi\\controllers\\dichvuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2408E5E9-2EDE-4852-A720-F02B8EA7829B}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\dichvuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appdata\\taikhoann.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,36 +123,8 @@
       "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appdata\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appdata\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appdata\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appdata\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appdata\\phongchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\phongchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appdata\\quyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|solutionrelative:appdata\\quyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\views\\phongs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\views\\phongs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appview\\controllers\\giascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45FEDE9F-CC66-449F-976A-FEC095D614D5}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\giascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11E10BBF-0ECB-4EB3-93D8-7DBEA10A7033}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\eos_fpl_hn_03_10_2023\\hotel\\appdata\\migrations\\20241118023127_hotel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,99 +146,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\LoaiPhong\\Create.cshtml",
-              "RelativeDocumentMoniker": "AppView\\Views\\LoaiPhong\\Create.cshtml",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\LoaiPhong\\Create.cshtml",
-              "RelativeToolTip": "AppView\\Views\\LoaiPhong\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\Phongs\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Phongs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\Phongs\\Index.cshtml*",
+              "RelativeToolTip": "AppView\\Views\\Phongs\\Index.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T04:41:22.046Z",
+              "WhenOpened": "2024-11-18T04:24:41.412Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhongsController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Controllers\\PhongsController.cs",
+              "RelativeDocumentMoniker": "AppView\\Controllers\\PhongsController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Controllers\\PhongsController.cs",
+              "RelativeToolTip": "AppView\\Controllers\\PhongsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:13:56.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\LoaiPhong\\Index.cshtml",
-              "RelativeDocumentMoniker": "AppView\\Views\\LoaiPhong\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\LoaiPhong\\Index.cshtml",
-              "RelativeToolTip": "AppView\\Views\\LoaiPhong\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T04:39:34.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoaiPhongController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Controllers\\LoaiPhongController.cs",
-              "RelativeDocumentMoniker": "AppView\\Controllers\\LoaiPhongController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Controllers\\LoaiPhongController.cs*",
-              "RelativeToolTip": "AppView\\Controllers\\LoaiPhongController.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T04:37:20.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoaiPhongsController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppAPI\\Controllers\\LoaiPhongsController.cs",
-              "RelativeDocumentMoniker": "AppAPI\\Controllers\\LoaiPhongsController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppAPI\\Controllers\\LoaiPhongsController.cs",
-              "RelativeToolTip": "AppAPI\\Controllers\\LoaiPhongsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T04:36:57.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DichVusController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppAPI\\Controllers\\DichVusController.cs",
-              "RelativeDocumentMoniker": "AppAPI\\Controllers\\DichVusController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppAPI\\Controllers\\DichVusController.cs",
-              "RelativeToolTip": "AppAPI\\Controllers\\DichVusController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T02:55:29.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DichVu.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\DichVu.cs",
-              "RelativeDocumentMoniker": "AppData\\DichVu.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\DichVu.cs",
-              "RelativeToolTip": "AppData\\DichVu.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T06:46:06.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Program.cs",
-              "RelativeDocumentMoniker": "AppView\\Program.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Program.cs",
-              "RelativeToolTip": "AppView\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T04:11:56.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "PhonggController.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Controllers\\PhonggController.cs",
               "RelativeDocumentMoniker": "AppView\\Controllers\\PhonggController.cs",
@@ -231,7 +190,238 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoaiPhongController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Controllers\\LoaiPhongController.cs",
+              "RelativeDocumentMoniker": "AppView\\Controllers\\LoaiPhongController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Controllers\\LoaiPhongController.cs",
+              "RelativeToolTip": "AppView\\Controllers\\LoaiPhongController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:37:20.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GiasController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Controllers\\GiasController.cs",
+              "RelativeDocumentMoniker": "AppView\\Controllers\\GiasController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Controllers\\GiasController.cs",
+              "RelativeToolTip": "AppView\\Controllers\\GiasController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:08:30.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomVN.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\ViewModes\\RoomVN.cs",
+              "RelativeDocumentMoniker": "AppView\\ViewModes\\RoomVN.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\ViewModes\\RoomVN.cs",
+              "RelativeToolTip": "AppView\\ViewModes\\RoomVN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:24:35.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\KhachHang.cs",
+              "RelativeDocumentMoniker": "AppData\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\KhachHang.cs",
+              "RelativeToolTip": "AppData\\KhachHang.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:45:44.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Phong.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\Phong.cs",
+              "RelativeDocumentMoniker": "AppData\\Phong.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\Phong.cs",
+              "RelativeToolTip": "AppData\\Phong.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:19:16.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhongChiTiet.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\PhongChiTiet.cs",
+              "RelativeDocumentMoniker": "AppData\\PhongChiTiet.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\PhongChiTiet.cs",
+              "RelativeToolTip": "AppData\\PhongChiTiet.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:41:59.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "LoaiPhong.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\LoaiPhong.cs",
+              "RelativeDocumentMoniker": "AppData\\LoaiPhong.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\LoaiPhong.cs",
+              "RelativeToolTip": "AppData\\LoaiPhong.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:45:40.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\NhanVien.cs",
+              "RelativeDocumentMoniker": "AppData\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\NhanVien.cs",
+              "RelativeToolTip": "AppData\\NhanVien.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:39:35.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\ViewModels.cs",
+              "RelativeDocumentMoniker": "AppView\\ViewModels.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\ViewModels.cs",
+              "RelativeToolTip": "AppView\\ViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:23:20.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T07:19:52.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AppView\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T07:14:33.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAANQAAAAAAAAAAAAAAAkBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T07:04:39.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\LoaiPhong\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\LoaiPhong\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\LoaiPhong\\Create.cshtml",
+              "RelativeToolTip": "AppView\\Views\\LoaiPhong\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T04:41:22.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "AppView\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\wwwroot\\index.html",
+              "RelativeToolTip": "AppView\\wwwroot\\index.html",
+              "ViewState": "AgIAAJICAAAAAAAAAAAAAJ0CAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-19T07:17:27.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoaiPhongsController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppAPI\\Controllers\\LoaiPhongsController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\LoaiPhongsController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppAPI\\Controllers\\LoaiPhongsController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\LoaiPhongsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:36:57.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DichVusController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppAPI\\Controllers\\DichVusController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\DichVusController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppAPI\\Controllers\\DichVusController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\DichVusController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:55:29.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DichVu.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\DichVu.cs",
+              "RelativeDocumentMoniker": "AppData\\DichVu.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\DichVu.cs",
+              "RelativeToolTip": "AppData\\DichVu.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:46:06.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Program.cs",
+              "RelativeDocumentMoniker": "AppView\\Program.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Program.cs",
+              "RelativeToolTip": "AppView\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:11:56.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\Phongg\\Index.cshtml",
               "RelativeDocumentMoniker": "AppView\\Views\\Phongg\\Index.cshtml",
@@ -243,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppAPI\\Program.cs",
               "RelativeDocumentMoniker": "AppAPI\\Program.cs",
@@ -255,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppAPI\\appsettings.json",
               "RelativeDocumentMoniker": "AppAPI\\appsettings.json",
@@ -263,12 +453,11 @@
               "RelativeToolTip": "AppAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-18T02:22:59.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T02:22:59.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\Phongg\\Create.cshtml",
               "RelativeDocumentMoniker": "AppView\\Views\\Phongg\\Create.cshtml",
@@ -280,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "DatPhong.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\DatPhong.cs",
               "RelativeDocumentMoniker": "AppData\\DatPhong.cs",
@@ -292,19 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PhongsController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Controllers\\PhongsController.cs",
-              "RelativeDocumentMoniker": "AppView\\Controllers\\PhongsController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Controllers\\PhongsController.cs",
-              "RelativeToolTip": "AppView\\Controllers\\PhongsController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAwwEAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T04:13:56.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "TaiKhoann.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\TaiKhoann.cs",
               "RelativeDocumentMoniker": "AppData\\TaiKhoann.cs",
@@ -316,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "20241118064649_KhachSan.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\Migrations\\20241118064649_KhachSan.cs",
               "RelativeDocumentMoniker": "AppData\\Migrations\\20241118064649_KhachSan.cs",
@@ -328,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 27,
               "Title": "HoaDon.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\HoaDon.cs",
               "RelativeDocumentMoniker": "AppData\\HoaDon.cs",
@@ -340,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "HoaDonChiTiet.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\HoaDonChiTiet.cs",
               "RelativeDocumentMoniker": "AppData\\HoaDonChiTiet.cs",
@@ -352,67 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "KhachHang.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\KhachHang.cs",
-              "RelativeDocumentMoniker": "AppData\\KhachHang.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\KhachHang.cs",
-              "RelativeToolTip": "AppData\\KhachHang.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T06:45:44.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LoaiPhong.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\LoaiPhong.cs",
-              "RelativeDocumentMoniker": "AppData\\LoaiPhong.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\LoaiPhong.cs",
-              "RelativeToolTip": "AppData\\LoaiPhong.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T06:45:40.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "NhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\NhanVien.cs",
-              "RelativeDocumentMoniker": "AppData\\NhanVien.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\NhanVien.cs",
-              "RelativeToolTip": "AppData\\NhanVien.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T05:39:35.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "PhongChiTiet.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\PhongChiTiet.cs",
-              "RelativeDocumentMoniker": "AppData\\PhongChiTiet.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\PhongChiTiet.cs",
-              "RelativeToolTip": "AppData\\PhongChiTiet.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T04:41:59.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Phong.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\Phong.cs",
-              "RelativeDocumentMoniker": "AppData\\Phong.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\Phong.cs",
-              "RelativeToolTip": "AppData\\Phong.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T04:19:16.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "HotelDbContext.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\HotelDbContext.cs",
               "RelativeDocumentMoniker": "AppData\\HotelDbContext.cs",
@@ -424,19 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\Phongs\\Index.cshtml",
-              "RelativeDocumentMoniker": "AppView\\Views\\Phongs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Views\\Phongs\\Index.cshtml",
-              "RelativeToolTip": "AppView\\Views\\Phongs\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-18T04:24:41.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "Quyen.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\Quyen.cs",
               "RelativeDocumentMoniker": "AppData\\Quyen.cs",
@@ -448,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "20241118044240_Bookstore3.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\Migrations\\20241118044240_Bookstore3.cs",
               "RelativeDocumentMoniker": "AppData\\Migrations\\20241118044240_Bookstore3.cs",
@@ -460,19 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "GiasController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Controllers\\GiasController.cs",
-              "RelativeDocumentMoniker": "AppView\\Controllers\\GiasController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppView\\Controllers\\GiasController.cs",
-              "RelativeToolTip": "AppView\\Controllers\\GiasController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T04:08:30.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "20241118023127_HOTEL1.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\EOS_FPL_HN_03_10_2023\\hotel\\AppData\\Migrations\\20241118023127_HOTEL1.cs",
               "RelativeDocumentMoniker": "AppData\\Migrations\\20241118023127_HOTEL1.cs",

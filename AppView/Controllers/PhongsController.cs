@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using AppData;
+using AppView.ViewModes;
 
 namespace AppView.Controllers
 {
@@ -20,8 +21,17 @@ namespace AppView.Controllers
         // GET: Phong
         public async Task<IActionResult> Index()
         {
-            var phongs = await _context.Phongs.Include(p => p.PhongChiTiets).ToListAsync();
-            return View(phongs);
+            var phonh = _context.Phongs.AsQueryable();
+            var result = phonh.Select(p => new RoomVN
+            {
+                maPhong = p.MaPhong,
+                TenPhong = p.TenPhong,
+                Gia = p.gia,
+                HinhAnh = p.Hinh,
+                MoTa = p.MoTa,
+            });
+            return View(result);
+           
         }
 
         // GET: Phong/Details/5

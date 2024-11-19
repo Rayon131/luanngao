@@ -977,6 +977,10 @@
             "type": "string",
             "nullable": true
           },
+          "gia": {
+            "type": "number",
+            "format": "double"
+          },
           "phongChiTiets": {
             "type": "array",
             "items": {
